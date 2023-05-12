@@ -6,7 +6,11 @@
 // @license     GPL-2.0-only
 // @author      adjagu
 // @description Apply "dark-mode" CSS class to body element.
-// @version     0.0.0
+// @version     0.0.1
+// @icon        https://raw.githubusercontent.com/adjagu/userscripts/main/a1800/icon/a1800.png
+// @downloadURL https://raw.githubusercontent.com/adjagu/userscripts/main/a1800/a1800-auto-dark-mode.user.js
+// @homepageURL https://github.com/adjagu/userscripts
+// @supportURL  https://github.com/adjagu/userscripts/issues
 // ==/UserScript==
 
 document.body.classList.add("dark-mode");
