@@ -2,6 +2,7 @@
 // @name        Auto Dark Mode : a1800.net
 // @namespace   userscript@adjagu
 // @match       https://a1800.net/
+// @match       https://a1800.s1.zetohosting.pl/
 // @grant       none
 // @license     GPL-2.0-only
 // @author      adjagu
